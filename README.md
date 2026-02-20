@@ -1,5 +1,3 @@
-Here's a professional README.md for your pizza sales SQL project:
-
 # 🍕 Pizza Sales Data Analysis
 
 A comprehensive SQL analysis of pizza sales data to extract business insights and performance metrics.
